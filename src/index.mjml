@@ -1,0 +1,237 @@
+<mjml>
+  <mj-head>
+    <mj-breakpoint width="600px" />
+    <mj-font name="Helvetica" href="https://fonts.cdnfonts.com/css/helvetica-neue-55" />
+    <mj-attributes>
+      <mj-all color="#033D5A" font-family="'Helvetica Neue, sans-serif'" padding="0" />
+      <mj-class name="border-radius" border-radius="8px" />
+      <mj-class name="top-border" border-radius="8px 8px 0 0" />
+      <mj-class name="bottom-border" border-radius="0 0 8px 8px" />
+      <mj-class name="border" border="1px solid red" />
+      <mj-class name="custom" display="inline-block" />
+      <mj-class name="border-padding" padding="0 30px" />
+      <mj-class name="anchor-color" color="#033D5A " font-family="Helvetica" text-transform="capitalize" font-style="normal" align="center" />
+      <mj-class name="font-style" color="#033D5A " font-family="Helvetica" text-transform="capitalize" font-style="normal" align="center" />
+      <mj-class name="stepes" color="#FFF " font-family="Helvetica" text-transform="capitalize" font-style="normal" align="center" font-size="24px" font-weight="700" line-height="140%" padding="0 0 0 13px" />
+      <mj-class name="visit-us" color="#ffffff" font-family="Helvetica" font-size="18px" font-style="normal" font-weight="400" line-height="170%" letter-spacing="0.36px" align="center" />
+    </mj-attributes>
+    <mj-style inline="inline">
+      .anchor-color {
+        color: "#033D5A" !important;
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#CEF3FF">
+    <mj-section>
+      <mj-column width="100%" background-color="#FFF">
+        <mj-image src="https://clientstaging.space/emailer-images/3t-mri/1.png" alt="" href="https://expertmri.com/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF">
+      <mj-column width="100%" mj-class="border-padding">
+        <mj-text mj-class="font-style" font-size="32px" font-weight="700" line-height="140%">
+          Precision and Clarity Redefined: Unlock Superior Imaging with ExpertMRI's Cutting-Edge 3T MRI Services!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF">
+      <mj-column width="100%" mj-class="border-padding">
+        <mj-image src="https://clientstaging.space/emailer-images/3t-mri/google.png.png" alt="" href="https://expertmri.com/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF">
+      <mj-column width="100%" mj-class="border-padding">
+        <mj-text mj-class="font-style" font-size="18px" text-transform="none" font-weight="400" line-height="180%" padding="0 0 40px 0">
+          Discover the ultimate in
+          diagnostic imaging
+          with ExpertMRI's cutting-edge 3T MRI
+          services. Our advanced technology offers
+          exceptional precision and clarity,
+          providing
+          you with the most accurate and detailed
+          results. Choose ExpertMRI for superior
+          imaging that redefines your healthcare
+          experience.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FFF">
+      <mj-column width="100%">
+        <mj-image src="https://clientstaging.space/emailer-images/3t-mri/Frame%201393.png" alt="" href="https://expertmri.com/" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EBEED7">
+      <mj-column width="100%" padding="20px 30px 0 30px ">
+        <mj-text mj-class="font-style" font-size="32px" font-weight="700" line-height="140%" padding="0 0 12px 0">
+          Unmatched Image Quality
+        </mj-text>
+        <mj-text mj-class="font-style" font-size="18px" font-weight="400" line-height="180%" padding="0 0 28px 0">
+          Experience unparalleled clarity with our advanced 3T MRI. Our state-of-the-art technology delivers superior image quality, enabling precise diagnoses and effective treatment plans. Trust our expertise for exceptional imaging results and personalized care
+        </mj-text>
+        <mj-button mj-class="font-style" color="#FFF" width="235px" font-size="16px" font-weight="700" line-height="180%" text-decoration="none" text-transform="capitalize" border-radius="40px" background-color="#284FD8" href="https://expertmri.com/">
+          SCHEDULE AN MRI
+        </mj-button>
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#EBEED7" padding="38px 15px 30px 15px">
+      <mj-column width="100%" mj-class="border-padding">
+        <mj-text mj-class="font-style" font-size="32px" font-weight="700" line-height="140%">
+          Where we provide 3T MRI service in california
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- cart section -->
+    <mj-wrapper background-color="#EBEED7" padding="0 30px 30px 30px">
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image src="https://clientstaging.space/emailer-images/3t-mri/Frame%204.png" alt="" border-radius="34px 34px 0 0" href="https://expertmri.com/" />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column background-color="#FFFFFF" border-radius="0 0 34px 34px" padding="18px 15px">
+          <mj-text mj-class="font-style" font-size="24px" font-weight="700" line-height="180%" padding="0 20px">
+            Costa Mesa, Orange County
+          </mj-text>
+          <mj-navbar base-url="https:/" align="center">
+            <mj-navbar-link href="/expertmri.com/locations/costa-mesa/" font-family="Helvetica,sans-serif" font-size="16px" font-weight="400" line-height="180%" color="#033D5A" text-transform="small"> 9832 Venice Blvd., Culver City, CA 90232, United States
+            </mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#EBEED7" padding="0 30px 30px 30px">
+      <mj-section>
+        <mj-column width="100%">
+          <mj-image src="https://clientstaging.space/emailer-images/3t-mri/Frame%201582.png" alt="" border-radius="34px 34px 0 0" href="https://expertmri.com/" />
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column background-color="#FFFFFF" border-radius="0 0 34px 34px" padding="18px 15px">
+          <mj-text mj-class="font-style" font-size="24px" font-weight="700" line-height="180%" padding="0 20px">
+            Culver City, CA
+          </mj-text>
+          <mj-navbar base-url="https:/" align="center">
+            <mj-navbar-link href="/expertmri.com/locations/culver-city/" font-family="Helvetica,sans-serif" font-size="16px" font-weight="400" line-height="180%" color="#033D5A" text-transform="small"> 9832 Venice Blvd., Culver City, CA 90232, United States
+            </mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#EBEED7" padding="10px 0 40px 0 ">
+      <mj-column width="100%" mj-class="border-padding">
+        <mj-button mj-class="font-style" color="#FFF" width="235px" font-size="16px" font-weight="700" line-height="180%" text-decoration="none" border-radius="40px" background-color="#284FD8" href="https://expertmri.com/">
+          SCHEDULE AN MRI
+        </mj-button>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-section background-color="#FFF">
+      <mj-column width="100%">
+        <mj-image src="https://clientstaging.space/emailer-images/3t-mri/Group%204.png" alt="" padding="25px 0 0 0" href="https://expertmri.com/" />
+      </mj-column>
+    </mj-section>
+
+    <!-- stepes wraper section -->
+
+    <mj-wrapper background-color="#033D5A" padding="15px 66px">
+      <mj-section>
+        <mj-column width="100%" mj-class="border-padding" width="86px" padding="0 0 10px 0">
+          <mj-image src="https://clientstaging.space/emailer-images/3t-mri/Frame%201371.png" alt="" width="86px" padding="0 13px 10px 0" align="center" />
+          <mj-text mj-class="stepes" align="center">
+            Easy and hassle free scheduling
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%" mj-class="border-padding" padding="0 0 10px 0">
+          <mj-image src="https://clientstaging.space/emailer-images/3t-mri/Frame%201372.png" width="86px" alt="" padding="0 13px 10px 0" align="center" />
+          <mj-text mj-class="stepes" align="center">
+            3T MRI service provided at Costa Mesa & Culver City
+          </mj-text>
+        </mj-column>
+      </mj-section>
+
+      <mj-section>
+        <mj-column width="100%" mj-class="border-padding" padding="0 0 10px 0">
+          <mj-image src="https://clientstaging.space/emailer-images/3t-mri/Frame%201373.png" width="86px" alt="" padding="0 13px 10px 0" align="center" />
+          <mj-text mj-class="stepes" align="center">
+            Major Insurance accepted
+          </mj-text>
+        </mj-column>
+
+      </mj-section>
+    </mj-wrapper>
+    <mj-section background-color="#033D5A" padding="30px">
+      <mj-column width="100%">
+        <mj-image src="https://clientstaging.space/emailer-images/3t-mri/review.png.png" alt="" border-radius="32px" padding="0 0 18px 0" />
+
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#033D5A" border-bottom="1px dotted #fff" padding="0 0 20px 0">
+      <mj-column width="100%" mj-class="border-padding">
+        <mj-button mj-class="font-style" color="#FFF" width="235px" font-size="16px" font-weight="700" line-height="180%" text-decoration="none" border-radius="40px" background-color="#033D5A" border="1.5px solid #FFF" border-radius="40px" text-transform="uppercase" href="https://expertmri.com/">
+          Schedule an MRI
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+
+    <mj-section background-color="#033D5A" padding="20px 0 0 0">
+      <mj-column width="100%" mj-class="border-padding">
+        <mj-image src="https://clientstaging.space/emailer-images/3t-mri/exp.jpg" alt="" width="276px" href="https://expertmri.com/" />
+      </mj-column>
+    </mj-section>
+    <!--     social media handeler     -->
+    <mj-section background-color="#033D5A" padding="20px 20px 35px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="24px" mode="horizontal" align="center">
+          <mj-social-element padding="15px" name="youtube" background-color="#033D5A" src="https://clientstaging.space/emailer-images/3t-mri/YouTube,%20Negative.png" href="https://www.youtube.com/channel/UCN8HBDqaOvN8gf2pJ48_ZNQ"></mj-social-element>
+          <mj-social-element padding="15px" name="facebook" background-color="#033D5A" src="https://clientstaging.space/emailer-images/3t-mri/Facebook,%20Negative.png" href="https://www.facebook.com/expertmri/"></mj-social-element>
+          <mj-social-element padding="15px" name="instagram" background-color="#033D5A" src="https://clientstaging.space/emailer-images/3t-mri/Instagram,%20Negative.png" href="https://www.instagram.com/ExpertMRI/"></mj-social-element>
+          <mj-social-element padding="15px" name="twitter" background-color="#033D5A" src="https://clientstaging.space/emailer-images/3t-mri/X,%20Negative.png" href="https://twitter.com/Expert_MRI"></mj-social-element>
+          <mj-social-element padding="15px" name="linkedln" background-color="#033D5A" src="https://clientstaging.space/emailer-images/3t-mri/LinkedIn,%20Negative.png" href="https://www.linkedin.com/company/expert-mri-medical-diagnostics/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#033D5A">
+      <mj-column width="100%">
+        <mj-text color="#FFFFFF" font-family="Helvetica" font-size="16px" font-style="normal" font-weight="400" line-height="180%" letter-spacing="0.32px" align="center">
+          Schedule An Appointment Now
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#033D5A">
+      <mj-column width="100%" mj-class="border-padding">
+        <mj-navbar base-url="https:/" align="center">
+          <mj-navbar-link href="/expertmri.com/" color="#FFFFFF" font-family="Helvetica,sans-serif" font-size="24px" font-weight="700" line-height="170%" padding="0 0 15px 0">(877)-MRI-8888</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <mj-wrapper background-color="#033D5A" padding="20px 0">
+      <mj-section>
+        <mj-column padding="0 0 20px">
+          <mj-navbar base-url="mailto:" align="center">
+            <mj-navbar-link href="collections@expertmri.com" font-family="Helvetica,sans-serif" font-size="16px" font-weight="400" line-height="180%" color="#ffffff" text-transform="capitalize">Email us </mj-navbar-link>
+          </mj-navbar>
+          <mj-navbar base-url="mailto:" align="center">
+            <mj-navbar-link href="scheduling@expertmri.com" font-family="Helvetica,sans-serif" font-size="16px" font-weight="400" line-height="180%" color="#ffffff" text-transform="small">scheduling@expertmri.com</mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+        <mj-column>
+          <mj-navbar base-url="https:/" align="center">
+            <mj-navbar-link href="/expertmri.com/" font-family="Helvetica,sans-serif" font-size="16px" font-weight="400" line-height="180%" color="#ffffff" text-transform="capitalize">Visit us </mj-navbar-link>
+          </mj-navbar>
+          <mj-navbar base-url="https:/" align="center">
+            <mj-navbar-link href="/expertmri.com/" font-family="Helvetica,sans-serif" font-size="16px" font-weight="400" line-height="180%" color="#ffffff" text-transform="small">www.expertmri.com</mj-navbar-link>
+          </mj-navbar>
+        </mj-column>
+
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>
